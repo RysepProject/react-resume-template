@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Rizki Firmansyah",
+    "name":"Asep Maulana",
     "occupation":"Python & Web Dev",
-    "description":"Developed Telegram Bot (known as Nana-Bot), Experience use React, and know some about Docker",
+    "description":"Developed, Experience use React, and know some about Docker",
     "image":"hmm.png",
-    "bio":"Developed Telegram Bot (known as Nana-Bot), Experience use React, and know some about Docker",
+    "bio":"Developed, Experience use React, and know some about Docker",
     "contactmessage":"Contact Me",
     "email": "firman@harumi.tech",
     "phone": "+62-851-5501-7225",
@@ -14,27 +14,27 @@
       "state":"Indonesia",
       "zip": "57155"
     },
-    "website": "http://harumi.tech",
-    "resumedownload":"http://harumi.tech",
+    "website": "https://asep86garageworks.blogspot.com/",
+    "resumedownload":"https://asep86garageworks.blogspot.com/",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/hoshikuzu.harumi",
+        "url":"http://facebook.com/SepCanss",
         "className":"fa fa-facebook"
       },
       {
         "name":"instagram",
-        "url":"https://www.instagram.com/hoshikuzuharumi/",
+        "url":"https://www.instagram.com/asepmlnaa/",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/legenhand",
+        "url":"http://github.com/RysepProject",
         "className":"fa fa-github"
       },
       {
         "name":"telegram",
-        "url":"https://t.me/hoshikuzu",
+        "url":"https://t.me/RysepEchizen",
         "className":"fa fa-telegram"
       }
     ]
@@ -43,9 +43,9 @@
     "skillmessage":"",
     "education":[
       {
-        "school":"SMK N 3 Bogor",
+        "school":"SMK PERTIWI KUNINGAN",
         "degree":"Network And Computer Engineering",
-        "graduated":"May 2018",
+        "graduated":"JANUARY 2021",
         "description":"Learn Some Basics programming, Setup network and server especially at Debian/Ubuntu Server."
       }
     ],
@@ -53,7 +53,7 @@
       {
         "company":"Post Office Indonesia",
         "title":"Post Office Clerk",
-        "years":"August 2018 - Present",
+        "years":"August 2021 - Present",
         "description":""
       }
     ],
@@ -79,13 +79,13 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Nana-Bot",
-        "category":"Nana userbot + assistant for telegram",
-        "image":"nanabanner.jpeg",
-        "url":"https://github.com/legenhand/Nana-Bot"
+        "title":"Kernel Beta",
+        "category":".",
+        "image":"SepKernel.jpeg",
+        "url":"https://github.com/RysepProject"
       }
     ]
-  },
+  },android kernel 
   "testimonials":{
     "testimonials":[
       {
